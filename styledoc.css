@@ -1,0 +1,82 @@
+
+article {
+    width: 800px;
+    float: left;
+    padding-left: 25px;
+}
+
+
+h1 {
+    color: #553D36;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+header {
+    color: #AF9164;
+    padding-left: 25px;
+    margin-bottom: 200px;
+    width: 800px;
+}
+
+h2 {
+    color: #684A52;
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
+
+h3 {
+    color: #684A52;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+p {
+    color: black;
+    font-size: 15px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+li {
+    color: #6F1A07;
+    font-family: 'Merriweather Sans', sans-serif;
+    margin-bottom: 7px;
+}
+
+.Links {
+    color: #B3B6B7;
+    font-family: 'Merriweather Sans', sans-serif;
+    border-top: 5px solid #AF9164;
+    border-bottom: 5px solid #AF9164;
+    padding: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 100px;
+    float: right;
+    align-items: stretch;
+
+}
+
+
+.Gabriela {
+    float: left;
+    border-radius: 70px;
+}
+
+.description {
+    padding-left: 210px;
+}
+
+.interesses {
+    border-radius: 50px;
+    background-color: #AF9164;
+    padding: 4px;
+}
+.linguagens {
+    border-radius: 40px;
+    background-color: #AF9164;
+    padding: 4px;
+}
+.Hobbies {
+    border-radius: 40px;
+    background-color: #AF9164;
+    padding: 4px;
+}
