@@ -1,49 +1,51 @@
 
+@media (min-width: 775px) {
 article {
     width: 800px;
     float: left;
     padding-left: 25px;
-}
+} }
 
 
 h1 {
     color: #553D36;
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Lobster', cursive;
 }
 
+@media (min-width: 775px) {
 header {
     color: #AF9164;
     padding-left: 25px;
     margin-bottom: 200px;
     width: 800px;
-}
+}}
 
 h2 {
     color: #684A52;
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Lobster', cursive;
 
 }
 
 h3 {
     color: #684A52;
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Lobster', cursive;
 }
 
 p {
     color: black;
     font-size: 15px;
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Jost', sans-serif;
 }
 
 li {
-    color: #6F1A07;
-    font-family: 'Merriweather Sans', sans-serif;
+    color: black;
+    font-family: 'Jost', sans-serif;
     margin-bottom: 7px;
 }
 
 .Links {
     color: #B3B6B7;
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Jost', sans-serif;
     border-top: 5px solid #AF9164;
     border-bottom: 5px solid #AF9164;
     padding: 5px;
@@ -54,7 +56,7 @@ li {
     align-items: stretch;
 
 }
-
+@media (min-width: 775px) {
 
 .Gabriela {
     float: left;
@@ -79,4 +81,5 @@ li {
     border-radius: 40px;
     background-color: #AF9164;
     padding: 4px;
+}
 }
